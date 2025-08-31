@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 蛞蝓猫可爱捏</title>
+        <link>https://askhdb.github.io/hugoweb/page/</link>
+        <description>Recent content in Pages on 蛞蝓猫可爱捏</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>网站不稳定请使用加速器</copyright>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://askhdb.github.io/hugoweb/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>https://askhdb.github.io/hugoweb/%E5%BD%92%E6%A1%A3/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://askhdb.github.io/hugoweb/%E5%BD%92%E6%A1%A3/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://askhdb.github.io/hugoweb/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://askhdb.github.io/hugoweb/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h4 id=&#34;关于该网站&#34;&gt;关于该网站
+&lt;/h4&gt;&lt;p&gt;&lt;em&gt;该网站的部分制作工具已经放在相关链接里了，主要使用nodejs,hugo,等工具实现。&lt;/em&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://askhdb.github.io/hugoweb/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://askhdb.github.io/hugoweb/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>相关链接</title>
+        <link>https://askhdb.github.io/hugoweb/%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://askhdb.github.io/hugoweb/%E7%9B%B8%E5%85%B3%E9%93%BE%E6%8E%A5/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
